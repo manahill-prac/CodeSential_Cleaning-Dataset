@@ -21,9 +21,9 @@
 
 
 ## 🚀 How to Run
- ```bash
+ 
 1. Clone this repository  
-  
+  ```bash
    git clone https://github.com/manahill-prac/CodeSential_Cleaning-Dataset.git
    cd CodeSential_Cleaning-Dataset
 ````
