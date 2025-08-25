@@ -32,6 +32,6 @@
    ```bash
    pip install -r requirements.txt
 ````
- ```bash
+ 
 3. Run the notebook in Jupyter or open it directly in **Google Colab** using the badge above.
  ````
