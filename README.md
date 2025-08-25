@@ -21,8 +21,9 @@
 
 
 ## 🚀 How to Run
+ ```bash
 1. Clone this repository  
-   ```bash
+  
    git clone https://github.com/manahill-prac/CodeSential_Cleaning-Dataset.git
    cd CodeSential_Cleaning-Dataset
 ````
@@ -31,6 +32,6 @@
    ```bash
    pip install -r requirements.txt
 ````
-
+ ```bash
 3. Run the notebook in Jupyter or open it directly in **Google Colab** using the badge above.
-
+ ````
