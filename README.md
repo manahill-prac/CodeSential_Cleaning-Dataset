@@ -28,10 +28,9 @@
 ````
 
 2. Install dependencies
-
    ```bash
    pip install -r requirements.txt
-   ```
+````
 3. Run the notebook in Jupyter or open it directly in **Google Colab** using the badge above.
 
 ---
